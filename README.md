@@ -1,5 +1,26 @@
-### Hi there 👋
+<h1 align="center">Horácio Dias</h1>
+<h3 align="center">Java Web Developer.</h3>
 
+Bacharel em Sistemas de Informação pela ITE.
+
+Gosto do desenvolvimento web e tecnologias frontend. Procuro não me apegar a uma linguagem ou framework, acredito que todas as linguagens e ferramentas tem seu valor e podem ser bem utilizadas em seus proósitos.
+
+Tenho um grande interesse na área de desenvolvimento de jogos, já fiz alguns protótipos mas nenhum dos protótipos que desenvolvi chegaram a evoluir para um projeto completo.
+
+### Hobbies
+- Violão
+- Ukulele
+- Pixel Art
+- Séries
+
+### 
+
+- 🔭 Eu estou atualmente trabalhando com Java / Spring / Vue.js
+- 🌱 Eu estou atualmente aprendendo sobre Microsserviços e Inglês
+- 💬 Me pergunte sobre Python / Java / Javascript / PHP
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/nenodias?style=social)](https://twitter.com/nenodias)
+[![Linkedin: nenodias](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nenodias/)](https://www.linkedin.com/in/nenodias/)
 <!--
 **nenodias/nenodias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
