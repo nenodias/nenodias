@@ -21,6 +21,7 @@ Tenho um grande interesse na área de desenvolvimento de jogos, já fiz alguns p
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/nenodias?style=social)](https://twitter.com/nenodias)
 [![Linkedin: nenodias](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nenodias/)](https://www.linkedin.com/in/nenodias/)
+[![Buy me a coffee](https://img.shields.io/badge/-buy%20me%20a%20coffee-blue&link=https://www.buymeacoffee.com/nenodias)](https://www.buymeacoffee.com/nenodias)
 <!--
 **nenodias/nenodias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
