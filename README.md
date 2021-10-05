@@ -15,7 +15,7 @@ Tenho um grande interesse na área de desenvolvimento de jogos, já fiz alguns p
 
 ### 
 
-- 🔭 Eu estou atualmente trabalhando com Java / Spring / Vue.js
+- 🔭 Eu estou atualmente trabalhando com Java / Spring / Kafka / RabbitMQ / AWS
 - 🌱 Eu estou atualmente aprendendo sobre Microsserviços e Inglês
 - 💬 Me pergunte sobre Python / Java / Javascript / PHP
 
