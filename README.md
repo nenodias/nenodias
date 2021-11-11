@@ -3,7 +3,7 @@
 
 Bacharel em Sistemas de Informação pela ITE.
 
-Gosto de desenvolvimento web, tecnologias frontend e containers docker. Procuro não me apegar a uma linguagem ou framework, acredito que todas as linguagens e ferramentas tem seu valor e podem ser bem utilizadas em seus propósitos.
+Gosto de desenvolvimento web, tecnologias frontend, pipelines de entrega e containers docker. Procuro não me apegar a uma linguagem ou framework, acredito que todas as linguagens e ferramentas tem seu valor e podem ser bem utilizadas em seus propósitos.
 
 Tenho um grande interesse na área de desenvolvimento de jogos, já fiz alguns protótipos mas nenhum dos protótipos chegaram a evoluir para um projeto completo.
 
