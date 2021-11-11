@@ -3,9 +3,10 @@
 
 Bacharel em Sistemas de Informação pela ITE.
 
-Gosto do desenvolvimento web e tecnologias frontend. Procuro não me apegar a uma linguagem ou framework, acredito que todas as linguagens e ferramentas tem seu valor e podem ser bem utilizadas em seus propósitos.
+Gosto de desenvolvimento web, tecnologias frontend e containers docker. Procuro não me apegar a uma linguagem ou framework, acredito que todas as linguagens e ferramentas tem seu valor e podem ser bem utilizadas em seus propósitos.
 
-Tenho um grande interesse na área de desenvolvimento de jogos, já fiz alguns protótipos mas nenhum dos protótipos que desenvolvi chegaram a evoluir para um projeto completo.
+Tenho um grande interesse na área de desenvolvimento de jogos, já fiz alguns protótipos mas nenhum dos protótipos chegaram a evoluir para um projeto completo.
+
 
 ### Hobbies
 - Violão
@@ -15,7 +16,7 @@ Tenho um grande interesse na área de desenvolvimento de jogos, já fiz alguns p
 
 ### 
 
-- 🔭 Eu estou atualmente trabalhando com Java / Spring / Kafka / RabbitMQ / AWS
+- 🔭 Eu estou atualmente trabalhando com Java / Spring / Kafka / RabbitMQ / AWS / Kubernetes
 - 🌱 Eu estou atualmente aprendendo sobre Microsserviços e Inglês
 - 💬 Me pergunte sobre Python / Java / Javascript / PHP
 
