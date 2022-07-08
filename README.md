@@ -17,12 +17,20 @@ Tenho um grande interesse na área de desenvolvimento de jogos, já fiz alguns p
 ### 
 
 - 🔭 Eu estou atualmente trabalhando com Java / Spring / Kafka / RabbitMQ / AWS / Kubernetes
-- 🌱 Eu estou atualmente aprendendo sobre Microsserviços e Inglês
+- 🌱 Eu estou atualmente aprendendo sobre Microsserviços, Go, Rust e Inglês
 - 💬 Me pergunte sobre Python / Java / Javascript / PHP
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/nenodias?style=social)](https://twitter.com/nenodias)
 [![Linkedin: nenodias](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nenodias/)](https://www.linkedin.com/in/nenodias/)
+
 <a href="https://www.buymeacoffee.com/nenodias" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nenodias&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Nenodias github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenodias&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+
 <!--
 **nenodias/nenodias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
